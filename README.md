@@ -1,5 +1,31 @@
-# gam537-assignment3
+# BOOM
 
+![logo](Preview/logo.png)
+
+## Introduction
+![logo](Preview/gameplay1.gif)
+![logo](Preview/gameplay2.gif)
+
+BOOM is a fast-paced arena first person shooter featuring gothic horror and science fiction elements. The levels are set in distinct arenas where players must fend off hordes of enemies.
+
+The game draws inspiration from classic PC first person shooter games including:
+-	Quake III Arena (1999)
+-	Unreal Tournament (1999)
+-	DOOM (1993)
+
+## Controls
+
+| Input | Function |
+| - | - |
+| Mouse | Aim |
+| Left-click | Fire |
+| W | Move Forward |
+| S | Move Backward |
+| A | Strafe Left |
+| D | Strafe Right |
+| Space bar | Jump |
+
+## Project Information
 Course:     GAM537
 
 Section:    NSA
