@@ -3,10 +3,10 @@
 ![logo](Preview/logo.png)
 
 ## Introduction
+BOOM is a fast-paced arena first person shooter featuring gothic horror and science fiction elements made in Unreal Engine 4. The levels are set in distinct arenas where players must fend off hordes of enemies.
+
 ![logo](Preview/gameplay1.gif)
 ![logo](Preview/gameplay2.gif)
-
-BOOM is a fast-paced arena first person shooter featuring gothic horror and science fiction elements. The levels are set in distinct arenas where players must fend off hordes of enemies.
 
 The game draws inspiration from classic PC first person shooter games including:
 -	Quake III Arena (1999)
